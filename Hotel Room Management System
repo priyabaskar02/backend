@@ -1,0 +1,35 @@
+Room Management System - Backend
+
+About
+
+This project is a backend application developed using Java and Spring Boot to manage room information.
+
+Technologies Used
+
+* Java
+* Spring Boot
+* Maven
+* REST API
+
+Room Details
+
+The application manages room information such as:
+
+* Room name
+* Location
+* Room type
+* Price per night
+* Capacity
+* Availability
+* Room number
+
+Project Structure
+
+* DemoApplication.java - Main application
+* Room.java - Room model
+* RoomController.java - Handles API requests
+* application.properties - Application configuration
+
+Author
+
+Priyadharshini
